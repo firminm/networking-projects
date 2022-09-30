@@ -1,7 +1,5 @@
 # Multithreaded Barebones Social Network
-Simple social networking application.
-
-Utilized the socket interface to send and recieve messages over the internet using TCP/IP. Also works on localhost.
+Utilized the socket interface to send and recieve messages over the internet using TCP/IP to implement a simple social networking application.
 
 
 ### Functionality:
