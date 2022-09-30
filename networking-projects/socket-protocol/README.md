@@ -1,4 +1,5 @@
 # Multithreaded Barebones Social Network
+### Goal: hands-on experience working with TCP and the socket interface
 Utilized the socket interface to send and recieve messages over the internet using TCP/IP. Server program multithreaded to allow for interleaved communication between multiple users, User program multithreaded to allow for interleaved sending and recieving of messages.
 
 
