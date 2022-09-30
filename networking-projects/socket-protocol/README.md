@@ -7,7 +7,7 @@ Utilized the socket interface to send and recieve messages over the internet usi
 ### Functionality:
 - Add friends with @connect \<username>
   > See list of commands for friend-adding sequence
-- Send status updates to friends using #status <status>
+- Send status updates to friends using #status \<status>
 - Broadcasts global welcome message when a new user leaves/joins
 - Broadcasts global friend update messages
 
