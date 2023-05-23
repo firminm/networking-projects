@@ -1,0 +1,21 @@
+
+1. The Node class is instantiated 4 times within NetworkSimulator.java as opposed to having a file for each node (node1.c, ..., node4.c)
+2. Some methods and variables are made public and static in NetworkSimulator.java to allow the Node class to access them
+3. A Makefile is provided
+
+--------------------
+To clean up
+--------------------
+make clean
+
+
+--------------------
+To compile
+--------------------
+make all
+
+
+--------------------
+To run
+--------------------
+java Project3
